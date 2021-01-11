@@ -25,6 +25,11 @@ public class MainActivity extends AppCompatActivity {
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 
+
+
+
+
+        // a
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
